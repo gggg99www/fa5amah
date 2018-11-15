@@ -1,0 +1,6 @@
+﻿token=NTEyNzA2MjkyOTMwODM4NTYw.Ds9W7w.v7_ZFdOe2vINQKprs_enF5Cyh3U 
+owner=499982945088569344
+prefix= fff
+game= اتضن انك قد طمست هويتي ؟ بالمشمش ^_^
+stayinchannel=true
+songinstatus=true 
